@@ -1,1 +1,2 @@
-Fulano
+Olá, mundo!
+Este é um arquivo de texto criado em Python.
