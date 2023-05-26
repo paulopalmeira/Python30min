@@ -1,21 +1,16 @@
-#name = "Fulano"
-#age = 21
-#attractive = True
+capitals = {"USA":"Washington",
+            "India":"New Delhi",
+            "China":"Beijing"}
 
-#multiple assignment
+capitals.update({"China":"Oio"})
 
-name, age, attractive = "Beltrano", 22, True
+#print(capitals["China"])
 
-print (name)
-print (age)
-print (attractive)
+#print(capitals.get("Germany"))
 
-maria = pedro = jose = paulo = 30
+#print(capitals.keys())
 
-print (maria)
-print (pedro)
-print (jose)
-print (paulo)
+#print(capitals.values())
 
-
+print(capitals.items())
 
