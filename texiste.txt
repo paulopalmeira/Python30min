@@ -1,2 +1,2 @@
-Ol√°, mundo!
-Este √© um arquivo de texto criado em Python.
+Ol·, mundo!
+Este È um arquivo de texto criado em Python.

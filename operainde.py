@@ -18,7 +18,7 @@ def inserir_dados():
     else:
         # Conectar ao banco de dados
         conexao = mysql.connector.connect(
-            host="localhost",
+            host="db4free.net",
             user="vidrado",
             password="vidrado51",
             database="pythondata"
